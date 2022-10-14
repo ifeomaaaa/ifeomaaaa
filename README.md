@@ -1,3 +1,5 @@
+[![@ifeoma's Holopin board](https://holopin.me/ifeoma)](https://holopin.io/@ifeoma)
+
 - 👋 Hi, I’m @ifeomaaaa
 - 👀 I’m interested in all things data
 - 🌱 I’m currently transitioning from marketing in tech to data scientist
